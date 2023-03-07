@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(s.MinPartitions("2343"))
+	fmt.Println(s.MinSteps("anagram", "mangaar"))
 }
